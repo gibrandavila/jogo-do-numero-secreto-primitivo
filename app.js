@@ -1,4 +1,4 @@
-// mensagem de caixinha alerta
+// mensagem de caixinha alerta do jogo
 alert ("jogo do número secreto"); 
 
 //limite maximo de numeros do jogo
